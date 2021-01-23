@@ -1,0 +1,3 @@
+[submodule "Assets/UnityCcu"]
+	path = Assets/UnityCcu
+	url = git@github.com:Unity-Technologies/ConditionalCompilationUtility.git
